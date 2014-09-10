@@ -31,5 +31,18 @@
   },
   "engines": {
     "node": ">=0.8.0"
-  }
+  },
+  "readmeFilename": "readme.md",
+  "gitHead": "662e39acfc9839b4f1dbdd12d3f2d93bdf56cc5d",
+  "description": "Bridgely is a mobile directory with SMS capabilities that helps bridge the communication gap between HR departments and employees.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/forus-coop/bridgely.git"
+  },
+  "author": "",
+  "license": "BSD"
 }
